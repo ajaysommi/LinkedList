@@ -1,1 +1,2 @@
 # LinkedList
+This project is a fundamental implementation of a linked list data structure. Designed as a school project, it demonstrates the core principles of data organization and manipulation in computer science. The program allows for the creation, insertion, deletion, and traversal of nodes within a linked list. This project highlights an understanding of data structures, memory management, and algorithmic thinking, providing a solid foundation for more complex software development tasks.
